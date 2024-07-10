@@ -80,6 +80,7 @@
             }
         ]
     },
+
     "business-card-generator": {
         "name": "Business Card Generator",
         "link": "/business-card-generator",
@@ -107,6 +108,7 @@
             }
         ]
     },
+
     "camera-recorder": {
         "name": "Camera Recorder",
         "link": "/camera-recorder",
@@ -615,6 +617,7 @@
             }
         ]
     },
+
     "signature-maker": {
         "name": "Signature Maker",
         "link": "/signature-maker",
@@ -642,6 +645,7 @@
             }
         ]
     },
+
     "virtual-graph-paper": {
         "name": "Virtual Graph Paper",
         "link": "/virtual-graph-paper",
@@ -678,6 +682,29 @@
     "website-links-count": {
         "name": "Website Links Count",
         "link": "/website-links-count",
+
+        "description": "Website Link Count is a tool that allows users to enter a URL and instantly see the total number of hyperlinks present on the given webpage. This utility helps in quickly analyzing the link density and structure of any website.",
+        "contributors": [
+            {
+                "name": "Abdur Rehman Shaikh",
+                "githubId": "abdurrahmanshkh"
+            },
+            {
+                "name": "Aman Ilag",
+                "githubId": "ImGreY8"
+            },
+            {
+                "name": "Atharva Bhosale",
+                "githubId": "AT8Cool"
+            },
+            {
+                "name": "Monika Konde",
+                "githubId": "monikakonde"
+            },
+            {
+                "name": "Raunak Singhal",
+                "githubId": "Raunak152003"
+
         "description": "",
         "contributors": [
             {
@@ -699,6 +726,7 @@
             {
                 "name": "",
                 "githubId": ""
+
             }
         ]
     },
