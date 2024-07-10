@@ -80,6 +80,35 @@
             }
         ]
     },
+
+    "business-card-generator": {
+        "name": "Business Card Generator",
+        "link": "/business-card-generator",
+        "description": "",
+        "contributors": [
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            }
+        ]
+    },
+
     "camera-recorder": {
         "name": "Camera Recorder",
         "link": "/camera-recorder",
@@ -361,6 +390,33 @@
             }
         ]
     },
+    "list-toolkit": {
+        "name": "List Toolkit",
+        "link": "/list-toolkit",
+        "description": "",
+        "contributors": [
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            }
+        ]
+    },
     "living-background-generator": {
         "name": "Living Background Generator",
         "link": "/living-background-generator",
@@ -561,6 +617,35 @@
             }
         ]
     },
+
+    "signature-maker": {
+        "name": "Signature Maker",
+        "link": "/signature-maker",
+        "description": "",
+        "contributors": [
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            }
+        ]
+    },
+
     "virtual-graph-paper": {
         "name": "Virtual Graph Paper",
         "link": "/virtual-graph-paper",
@@ -597,6 +682,7 @@
     "website-links-count": {
         "name": "Website Links Count",
         "link": "/website-links-count",
+
         "description": "Website Link Count is a tool that allows users to enter a URL and instantly see the total number of hyperlinks present on the given webpage. This utility helps in quickly analyzing the link density and structure of any website.",
         "contributors": [
             {
@@ -618,6 +704,29 @@
             {
                 "name": "Raunak Singhal",
                 "githubId": "Raunak152003"
+
+        "description": "",
+        "contributors": [
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+
             }
         ]
     },
